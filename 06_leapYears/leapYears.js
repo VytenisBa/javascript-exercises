@@ -12,9 +12,8 @@ const leapYears = function(a) {
     } else{
         return false;
     }
-};
-
-console.log(leapYears(1996));
+}
+console.log(leapYears(1984));
 
 
 // Do not edit below this line
